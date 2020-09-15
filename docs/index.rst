@@ -42,7 +42,7 @@ If something in this tutorial is broken or unclear, please `open an issue <https
 If you have a specific question, post a note over at the `discussion board <https://discussion.nextstrain.org/>`__ -- we're happy to help!
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :titlesonly:
    :caption: Table of contents
    
